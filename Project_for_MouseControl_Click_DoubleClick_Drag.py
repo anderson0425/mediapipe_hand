@@ -1,9 +1,4 @@
 #mediapipe hand
-
-#食指+中指-->當連線長夠小時，可以控制滑鼠移動(以完成小視窗到大視窗的印射)
-#石頭-->點擊
-#食指-->雙擊
-
 import cv2
 import mediapipe as mp
 import pyautogui
